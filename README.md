@@ -1,4 +1,4 @@
-# vscode-rpgle README
+###### vscode-rpgle README
 
 <img src="https://github.com/codefori/vscode-rpgle/blob/main/media/logo.png?raw=true" height="180px" align="right">
 
